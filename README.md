@@ -1,6 +1,6 @@
-# NestJs Video Streaming
+# NestJs Live Streaming
 
-A video streaming app using Node js with Nest js framework.
+A live streaming app using Node js with Nest js framework.
 
 Implementation of Video Streaming in Nest js and Next js, with defined some concepts about this topic that:
 
@@ -23,7 +23,7 @@ git clone https://github.com/Divyansh-465/Live-Streaming-Web-Application-Backend
 cd Live-Streaming-Web-Application-Backend
 
 # Download asset folder
-Move the [`Assets`](https://drive.google.com/drive/folders/16nBGyH3CXoQMOLfx1z85RUFU5OPdQ5VF?usp=sharing) folder into directory
+Move the [Assets](https://drive.google.com/drive/folders/16nBGyH3CXoQMOLfx1z85RUFU5OPdQ5VF?usp=sharing) folder into directory
 
 npm install
 ```
@@ -56,4 +56,4 @@ npm run test:cov
 
 ## Client code
 
-After starting the Server, open the NextJS [`Frontend`](https://github.com/Divyansh-465/Live-Streaming-Web-Application-Frontend)
+After starting the Server, open the NextJS [Frontend](https://github.com/Divyansh-465/Live-Streaming-Web-Application-Frontend)
