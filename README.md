@@ -17,10 +17,13 @@ Implementation of Video Streaming in Nest js and Next js, with defined some conc
 
 ```bash
 # Clone the repo
-git clone https://github.com/hesbon-osoro/nestjs-video-streaming.git
+git clone https://github.com/Divyansh-465/Live-Streaming-Web-Application-Backend.git
 
 # Navigate to directory
-cd nestjs-video-streaming
+cd Live-Streaming-Web-Application-Backend
+
+# Download asset folder
+Move the [`Assets`](https://drive.google.com/drive/folders/16nBGyH3CXoQMOLfx1z85RUFU5OPdQ5VF?usp=sharing) folder into directory
 
 npm install
 ```
@@ -53,6 +56,4 @@ npm run test:cov
 
 ## Client code
 
-After starting the Server, open the NextJS [`Frontend`](https://github.com/hesbon-osoro/nextjs-video-streaming)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/wazimu)
+After starting the Server, open the NextJS [`Frontend`](https://github.com/Divyansh-465/Live-Streaming-Web-Application-Frontend)
